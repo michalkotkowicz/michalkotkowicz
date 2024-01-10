@@ -1,14 +1,13 @@
-### Michael, 29 yo :wave:
+### Michael, 30 yo :wave:
 
 #### About Me
 
-Married, couple of kids. Looking for some side action. Just kidding. 
-Single, 4 cats and 3 tamagochis. Looking for someone to bring to family events, 
-so they will stop thinking that there is something wrong with me.
-:shushing_face:
+Hey there! My name is Michael. I am a guy from Poland trying to make a living in Germany. 
+After some time working in logistics, I decided to change my life in this country, and made a training to become a Web Developer.
+After successfully finishing my training, I am currently on a search of an internship or a work as Junior Web Developer.
 
-Naah, but really just a beggining developer. :sunglasses:
-
+If you are interested in contacting me, please do via email - michal.kotkowicz@gmail.com
+or visit my LinkedIn profile - https://www.linkedin.com/in/micha%C5%82-kotkowicz-374562292/
 
 
 <!--
